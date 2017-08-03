@@ -4,6 +4,7 @@
 ![](img/banner_component.png)
 
 ## Properties
+
 |Name|Type|Description|Sample|
 |:----:|:----:|-----------|------|
 |`layout`|JSON object| Bunch of Yoga properties| `{"width":"100%","aspect_ratio":2}` |
