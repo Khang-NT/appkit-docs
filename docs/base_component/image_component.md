@@ -2,8 +2,9 @@
 
 
 ## Properties
-|Name|Type|Required|Description|
-|----|:--:|:------:|-----------|
+
+| Name | Type | Required | Description |
+|------|:----:|:--------:|-------------|
 |`layout`| [Layout](../common/layout.md) | [x] | Value to determine the bound of this component |
 |`background`| [Background](../common/background.md)|[ ]| Background of this component|
 |`data`| String | [ ] | `URL` for the Image |
